@@ -1,4 +1,4 @@
-let txtUsername = document.getElementById("username")
+let txtPassword = document.getElementById("password")
 
 function testWord(){
 
