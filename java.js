@@ -1,5 +1,5 @@
 let txtPassword = document.getElementById("password")
-
+var specialChars = "<>@!#$%^&*()_+[]{}?:;|'\"\\,./~`-=";
 
 function testWord(){
     
